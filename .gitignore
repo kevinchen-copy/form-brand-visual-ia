@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Obsidian
+.obsidian/
+.obsidian-mobile/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Zips de distribuição (gerados localmente, não versionar)
+_zips/
+_zips-onda-*/
+_zip-COMPLETO-*/
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp
+tmp/
+temp/
+.cache/
+
+# Brand-specific (cada marca tem seu vault próprio, NÃO entra no repo)
+brands/
+marcas/
+*-brand-data/
